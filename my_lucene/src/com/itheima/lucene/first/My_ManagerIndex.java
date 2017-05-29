@@ -73,5 +73,9 @@ private IndexWriter indexWriter;
 		indexWriter.commit();
 		indexWriter.close();
 	}
+	@Test
+	public void test() throws Exception{
+		System.out.println("master   ");
+	}
 
 }
