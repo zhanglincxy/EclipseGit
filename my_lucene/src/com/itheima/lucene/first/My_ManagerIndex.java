@@ -76,6 +76,7 @@ private IndexWriter indexWriter;
 	@Test
 	public void test() throws Exception{
 		System.out.println("master   ");
+		System.out.println("master2   ");
 	}
 
 }
